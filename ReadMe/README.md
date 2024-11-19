@@ -14,10 +14,10 @@
 
 <div style="margin-left: 250px; margin-right: 250px;">
 
-[I. Overview]()
-[II. The Application of Python in the Program]()
-[III. Driving Sustainability: Integrating SDG Goals into SpotFinder]()
-[IV. Getting Started: How to Run SpotFinder]()
+- [I. Overview]()
+- [II. The Application of Python in the Program]()
+- [III. Driving Sustainability: Integrating SDG Goals into SpotFinder]()
+- [IV. Getting Started: How to Run SpotFinder]()
 
 </div>
 
