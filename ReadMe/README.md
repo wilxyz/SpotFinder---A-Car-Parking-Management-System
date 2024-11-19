@@ -186,5 +186,3 @@ python parking_management.py
 
 *Enjoy managing your parking spaces efficiently with* **SpotFinder!**
 </div>
-
-
