@@ -14,10 +14,10 @@
 
 <div style="margin-left: 250px; margin-right: 250px;">
 
-[I. Overview]()
-[II. The Application of Python in the Program]()
-[III. Driving Sustainability: Integrating SDG Goals into SpotFinder]()
-[IV. Getting Started: How to Run SpotFinder]()
+- [I. Overview](#i-overview)
+- [II. The Application of Python in the Program](#ii-the-application-of-python-in-the-program)
+- [III. Driving Sustainability: Integrating SDG Goals into SpotFinder](#iii-driving-sustainability-integrating-sdg-goals-into-spotfinder)
+- [IV. Getting Started: How to Run SpotFinder](#iv-getting-started-how-to-run-spotfinder)
 
 </div>
 
@@ -135,7 +135,56 @@ python parking_management.py
 ```
 
 **5. Interacting with the system.**
+- **Dashboard and Menu**
+    - *This program will display a dashboard and menu with options such as finding a spot, reserving a space, or exiting the system. This will prompt the user to enter the corresponding number to select an option.*
+    <p align="center">
+    <img src="Main Dashboard.png" width="619px" height="251px"/>
+    </p>
 
+- **Find A Spot**
+    - *This will allow the user to enter the number to view the category of parking.*
+    <p align="center">
+    <img src="Find a Spot.png" width="1180px" height="100px"/>
+    </p>
+
+    - *This allows the user to view available slots per category.*
+    <p align="center">
+    <img src="Slots.png" width="381px" height="231px"/>
+    </p>
+
+- **Reserve your Space**
+    - *This prompts the user to enter their details such as the chosen parking slot number, their name, vehicle plate number, contact number, and the date and time of their reservation.* 
+    - *After entering the details, the user will have a view of their confirmed reservation in a table format.*
+
+    <p align="center">
+    <img src="Reserve a Slot.png" width="1200px" height="150px"/>
+    </p>
+
+- **See your Bookings**
+    - *This allows the user to view their recent reservations.*
+
+    <p align="center">
+    <img src="See your Bookings.png" width="1200px" height="100px"/>
+    </p>
+
+- **Update your Reservation**
+    - *This will prompt the user to enter the reservation ID that they've made that they want to update. After that, They will enter a number from the options on what to update on their chosen reservation which is the Name, Vehicle Plate Number, Contact Number, and the Date and Time of their Reservation.*
+
+    <p align="center">
+    <img src="Update Reservation.png" width="1200px" height="250px"/>
+    </p>
+
+- **Cancel your Reservation**
+    - This will prompt the user to enter the reservation ID that they've made that they want to cancel. If the user wish to continue the cancellation, then the user must select the `1. Yes` option. Otherwise, if the user doesn't want to continue the cancellation or having second thoughts, then they must select the `2. No` option. Selecting `3. Return to Dashboard` will just return the user to the main dashboard of the program. 
+
+    <p align="center">
+    <img src="Cancel Reservation.png" width="1200px" height="180px"/>
+    </p>
+
+- **Exit**
+    - *Select option `6. Exit` from the menu to close the program safely.* 
+
+*Enjoy managing your parking spaces efficiently with* **SpotFinder!**
 </div>
 
 
